@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.hcj{
+    background:linear-gradient(to right,  rgb(40, 121, 63) 90%, transparent 10%);
+    border-radius: 10px;
+    border: 1px solid  rgb(40, 121, 63);
+    color: #ffff;
+    text-align: center;
+    width: 90%;
+    height: 18px;
+}
+.boots{
+    background:linear-gradient(to right, rgb(40, 121, 63) 70%, transparent 20%);
+    border-radius: 10px;
+    border: 1px solid  rgb(40, 121, 63);
+    color: #ffff;
+    text-align: center;
+    width: 90%;
+    height: 18px;
+}
+.python{
+    background:linear-gradient(to right, rgb(40, 121, 63) 60%, transparent 40%);
+    border-radius: 10px;
+    border: 1px solid rgb(40, 121, 63);
+    color: #ffff;
+    text-align: center;
+    width: 90%;
+    height: 18px;
+}
+.English{
+    background:linear-gradient(to right,  rgb(40, 121, 63) 85%, transparent 15%);
+    border-radius: 10px;
+    border: 1px solid  rgb(40, 121, 63);
+    color: #ffff;
+    text-align: center;
+    width: 90%;
+    height: 18px;
+}
+.Yoruba{
+    background:linear-gradient(to right,  rgb(40, 121, 63) 90%, transparent 10%);
+    border-radius: 10px;
+    border: 1px solid  rgb(40, 121, 63);
+    color: #ffff;
+    text-align: center;
+    width: 90%;
+    height: 18px;
+}
+.Hausa{
+    background:linear-gradient(to right, rgb(40, 121, 63) 30%, transparent 70%);
+    border-radius: 10px;
+    border: 1px solid  rgb(40, 121, 63);
+    color: #ffff;
+    text-align: center;
+    width: 90%;
+    height: 18px;
+}
+.git{
+    background:linear-gradient(to right,  rgb(40, 121, 63) 50%, transparent 50%);
+    border-radius: 10px;
+    border: 1px solid rgb(40, 121, 63);
+    color: #ffff;
+    text-align: center;
+    width: 90%;
+    height: 18px;
+}
+.button{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    border: 1px solid whitesmoke ;
+    width: 100px;
+    margin: 10px;
+
+}
